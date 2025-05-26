@@ -9,7 +9,7 @@
     "logo": {
         "source": "~/.config/fastfetch/ascii.txt",
             "color": {
-        "4": "blue"
+        "1": "0"
     }
     },
     "display": {
