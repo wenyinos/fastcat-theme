@@ -1,4 +1,4 @@
-# FastCat Community Themes 
+# FastCat Community Themes
 
 # Installation
 
@@ -16,8 +16,8 @@ cp ~/.config/fastfetch/themes/fastfetch/image.png ~/.config/fastfetch/
 ## Install Cascadia Nerd Fonts
 
 ```shell
-chmod +x ~/.config/fastfetch/themes/install-icon.sh
-bash ~/.config/fastfetch/themes/install-icon.sh
+chmod +x ~/.config/fastfetch/themes/fastfetch/install-icon.sh
+bash ~/.config/fastfetch/themes/fastfetch/install-icon.sh
 ```
 
 <p align="center"><a href="PREVIEW-THEMES.md">Click to preview themes uploaded by our community</a></p>
