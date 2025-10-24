@@ -1,4 +1,4 @@
-# `<p><center>`FastCat Community Themes `</center>`
+# FastCat Community Themes 
 
 # Installation
 
