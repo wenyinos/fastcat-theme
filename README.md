@@ -1,4 +1,23 @@
-# <img src="https://github.com/user-attachments/assets/4c636831-38fd-43b8-9ab7-d154574145d9" hspace="10" width="37"  align="left"/><p><center>FastCat Community Themes</center>
+# `<p><center>`FastCat Community Themes `</center>`
 
-<p align="center">To add your config to <a href="https://github.com/m3tozz/FastCat">FastCat</a>, fork this repo, add your theme, and submit a pull request</p> <br>
+# Installation
+
+## Imports
+
+Clone the repository, or download the theme of your choice:
+
+```sh
+git clone https://github.com/wenyinos/fastcat-theme ~/.config/fastfetch/themes
+cp ~/.config/fastfetch/themes/fastfetch/config.jsonc ~/.config/fastfetch/
+cp ~/.config/fastfetch/themes/fastfetch/ascii.txt ~/.config/fastfetch/
+cp ~/.config/fastfetch/themes/fastfetch/image.png ~/.config/fastfetch/
+```
+
+## Install Cascadia Nerd Fonts
+
+```shell
+chmod +x ~/.config/fastfetch/themes/install-icon.sh
+bash ~/.config/fastfetch/themes/install-icon.sh
+```
+
 <p align="center"><a href="PREVIEW-THEMES.md">Click to preview themes uploaded by our community</a></p>
